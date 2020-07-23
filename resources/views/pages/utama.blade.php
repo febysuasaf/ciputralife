@@ -14,7 +14,7 @@
     <div class="container-fluid px-0">
         <div class="row d-sm-flex text-wrapper align-items-stretch">
             <div class="one-half mb-md-0 mb-4 img d-flex align-self-stretch"
-                style="background-image: url({{ asset('assets/images/about.jpg') }});"></div>
+                style="background-image: url();"></div>
             <div class="one-half half-text d-flex justify-content-end align-items-center">
                 <div class="text-inner pt-md-5 pl-md-5">
                     <div class="row d-flex">
